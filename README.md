@@ -82,8 +82,6 @@ Homebrew 下载的文件不带 quarantine 属性，装完直接打开；卸载�
 
 **只想用**：[Releases](https://github.com/jev-chat/jev-chat-jarvis-mac/releases/latest/download/jev-jarvis-macos-latest.zip) 下载 `.app`，解压拖进「应用程序」，**第一次右键 → 打开**（没做公证，双击会被 Gatekeeper 拦）。
 
-![「已损坏，无法打开」的报错弹窗](docs/troubleshoot-damaged.png)
-
 弹窗若显示「**已损坏，无法打开，你应该将它移到废纸篓**」（浏览器下载的 zip 常见，右键打开也绕不过），别删——在终端清掉隔离属性即可：
 
 ```bash
