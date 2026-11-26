@@ -238,12 +238,8 @@ Copyright © 2026 eatmoreduck 与 jev-chat 贡献者。代码以 MIT 协议开�
 - **不要用**「Jev 聊天助手」「jev-chat」名称或 jev-jarvis.com 域名暗示由原作者出品或背书。
 - **免责声明**：本项目只处理你自己设备上、你自己有权查看的聊天，不注入、不 hook、不解密数据库、不自动发送任何消息。请遵守所用软件的许可协议与当地法律法规，作者不对使用后果负责。
 
-## 交流反馈
+## 反馈
 
-反馈、建议与合作请开 [GitHub issue](https://github.com/jev-chat/jev-chat-jarvis-mac/issues)；数据流向与隐私见 [PRIVACY.md](PRIVACY.md)。
+反馈、建议与合作请开 [GitHub issue](https://github.com/jev-chat/jev-chat-jarvis-mac/issues)。
 
-也欢迎扫码关注公众号，追更新、唠嗑：
-
-![公众号二维码](docs/official-account.png)
-
-**隐私与数据流向**详见 [PRIVACY.md](PRIVACY.md)：聊天内容只发给模型服务商——推荐自配 API key 或本地 Ollama；内置免费通道经作者中转，承诺与提醒见该页。
+**隐私与数据流向**详见 [PRIVACY.md](PRIVACY.md)：聊天内容只发给用户自己配置的模型服务商（自配 API key 或本地 Ollama）；本公开版不提供内置中转通道。
